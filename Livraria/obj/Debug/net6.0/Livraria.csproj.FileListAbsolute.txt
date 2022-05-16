@@ -1,0 +1,14 @@
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\Livraria.exe
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\Livraria.deps.json
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\Livraria.runtimeconfig.json
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\Livraria.dll
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\ref\Livraria.dll
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\Livraria.pdb
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\Livraria.AssemblyInfoInputs.cache
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\Livraria.AssemblyInfo.cs
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\Livraria.csproj.CoreCompileInputs.cache
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\Livraria.dll
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\ref\Livraria.dll
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\Livraria.pdb
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\Livraria.genruntimeconfig.cache
