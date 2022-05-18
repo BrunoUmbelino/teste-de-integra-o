@@ -5,7 +5,7 @@ namespace Livraria.Testes
     public class QuandoUsuarioLogado
     {
         [Fact]
-        public void DeveBuscarSeusDados()
+        public void DeveBuscarDadosDoUsuario()
         {
             var dadosDoUsuario = new ContaUsuario();
             
