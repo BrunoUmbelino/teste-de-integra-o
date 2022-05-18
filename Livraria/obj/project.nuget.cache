@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NXjuSBcw0fr+B22SAd7LkG6qsJTfiZY6JexVonvoXVAf5dVjDHb0U9JXtlWXvC+b9XFP1X7r2EjA9ElyiwBnyA==",
+  "dgSpecHash": "sOEaDnppoLM1lPyOrGs1kn+kTLYAwMrmoLIY6sHA9m0G0eTTIC6gK+GRf3F88G/7tbd04laVo4zSOXA9Y/aUsg==",
   "success": true,
-  "projectFilePath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\Livraria.csproj",
+  "projectFilePath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\SistemaDeAltenticação.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

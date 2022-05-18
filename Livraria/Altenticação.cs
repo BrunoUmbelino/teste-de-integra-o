@@ -9,21 +9,21 @@ namespace Livraria
     public class Altenticação
     {
         public string Email { get; private set; }
-
-        public bool Logado { get; set; }    
+        private string Senha { get; set; }
 
         public Altenticação(string email, string Senha)
         {
-            if (email == "maria@email.com" && Senha == "123456")
-            {
-                this.Email = email;
-                this.Logado = true;
-            }
+            this.Email = email;
+            this.Senha = Senha;
+        }
+
+        public bool Logar()
+        {
+            //Consultando no banco de dados
+            if (Email == "maria@email.com" && Senha == "123456")
+                return true;
             else
-            {
-                this.Email = "";
-                this.Logado = false;
-            }
+                return false;
         }
     }
 }

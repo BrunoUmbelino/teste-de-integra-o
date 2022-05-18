@@ -1,0 +1,14 @@
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\SistemaDeAltenticação.exe
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\SistemaDeAltenticação.deps.json
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\SistemaDeAltenticação.runtimeconfig.json
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\SistemaDeAltenticação.dll
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\ref\SistemaDeAltenticação.dll
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\bin\Debug\net6.0\SistemaDeAltenticação.pdb
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\SistemaDeAltenticação.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\SistemaDeAltenticação.AssemblyInfoInputs.cache
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\SistemaDeAltenticação.AssemblyInfo.cs
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\SistemaDeAltenticação.csproj.CoreCompileInputs.cache
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\SistemaDeAltenticação.dll
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\ref\SistemaDeAltenticação.dll
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\SistemaDeAltenticação.pdb
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria\obj\Debug\net6.0\SistemaDeAltenticação.genruntimeconfig.cache

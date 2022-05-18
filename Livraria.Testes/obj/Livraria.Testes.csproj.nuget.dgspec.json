@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\Livraria.csproj": {
-                "projectPath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\Livraria.csproj"
+              "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\SistemaDeAltenticação.csproj": {
+                "projectPath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\SistemaDeAltenticação.csproj"
               }
             }
           }
@@ -84,12 +84,12 @@
         }
       }
     },
-    "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\Livraria.csproj": {
+    "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\SistemaDeAltenticação.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\Livraria.csproj",
-        "projectName": "Livraria",
-        "projectPath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\Livraria.csproj",
+        "projectUniqueName": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\SistemaDeAltenticação.csproj",
+        "projectName": "SistemaDeAltenticação",
+        "projectPath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\SistemaDeAltenticação.csproj",
         "packagesPath": "C:\\Users\\bruno.umbelino\\.nuget\\packages\\",
         "outputPath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\obj\\",
         "projectStyle": "PackageReference",

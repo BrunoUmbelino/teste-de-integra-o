@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\Livraria.csproj",
-      "projectName": "Livraria",
-      "projectPath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\Livraria.csproj",
+      "projectUniqueName": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\SistemaDeAltenticação.csproj",
+      "projectName": "SistemaDeAltenticação",
+      "projectPath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\SistemaDeAltenticação.csproj",
       "packagesPath": "C:\\Users\\bruno.umbelino\\.nuget\\packages\\",
       "outputPath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria\\obj\\",
       "projectStyle": "PackageReference",

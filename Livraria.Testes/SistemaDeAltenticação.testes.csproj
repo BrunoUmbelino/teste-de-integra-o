@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Livraria\Livraria.csproj" />
+    <ProjectReference Include="..\Livraria\SistemaDeAltenticação.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lz7XEFlFXkhZdvGhl979+JIoD1zXKPwflHDPwMqG3UshQzF8o2bJzlcpZlApOGOZCcnhXmEaqODl1M8Ycj9Hzg==",
+  "dgSpecHash": "qRTTPA3A7HNkj0NGsxk/GLxfVoVpPZbZv7EZ+WBlsI7rHKjthz75g02UUMK6DOetS7mb46gsbyzQVdGzmHbNlg==",
   "success": true,
-  "projectFilePath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria.Testes\\Livraria.Testes.csproj",
+  "projectFilePath": "C:\\PROJETOS\\TestandoCoisas\\Livraria\\Livraria.Testes\\SistemaDeAltenticação.testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno.umbelino\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\bruno.umbelino\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

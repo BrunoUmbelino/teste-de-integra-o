@@ -14,6 +14,21 @@ namespace Livraria
         public string Sobrenome { get; set; }
         public string CPF { get; set; }
 
-
+        public ContaUsuario buscarDadosDoUsuario(string email)
+        {
+            if (email == "maria@email.com")
+            {
+                this.Id = "302e9542-ff3f-4d0a-a34a-e001739eefd9";
+                this.Nome = "Maria";
+                this.Sobrenome = "Dipirona";
+                this.Email = "maria@email.com";
+                this.CPF = "320.839.390-34";
+                return this;
+            }
+            else
+            {
+                return this;
+            }
+        }
     }
 }

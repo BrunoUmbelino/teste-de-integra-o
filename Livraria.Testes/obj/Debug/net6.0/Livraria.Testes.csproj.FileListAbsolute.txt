@@ -1,4 +1,8 @@
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.AssemblyInfoInputs.cache
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.AssemblyInfo.cs
+C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.csproj.CoreCompileInputs.cache
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\bin\Debug\net6.0\testhost.dll
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\bin\Debug\net6.0\Livraria.deps.json
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\bin\Debug\net6.0\Livraria.runtimeconfig.json
@@ -94,10 +98,6 @@ C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\bin\Debug\net6.0\zh-Hant\Mic
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\bin\Debug\net6.0\Livraria.dll
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\bin\Debug\net6.0\Livraria.pdb
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.csproj.AssemblyReference.cache
-C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.GeneratedMSBuildEditorConfig.editorconfig
-C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.AssemblyInfoInputs.cache
-C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.AssemblyInfo.cs
-C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.csproj.CoreCompileInputs.cache
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.csproj.CopyComplete
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\Livraria.Testes.dll
 C:\PROJETOS\TestandoCoisas\Livraria\Livraria.Testes\obj\Debug\net6.0\ref\Livraria.Testes.dll
